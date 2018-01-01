@@ -23,10 +23,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/123-hp-envy-4513-google-cloud-print/index.html" afterPath="$PROJECT_DIR$/123-hp-envy-4513-google-cloud-print/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/123-hp-envy-4513-usb-setup/index.html" afterPath="$PROJECT_DIR$/123-hp-envy-4513-usb-setup/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/123.hp-setup.com/index.html" afterPath="$PROJECT_DIR$/123.hp-setup.com/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comments/feed/index.html" afterPath="$PROJECT_DIR$/comments/feed/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/envy-4500-connect-using-usb-cable/index.html" afterPath="$PROJECT_DIR$/envy-4500-connect-using-usb-cable/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/envy-4513/index.html" afterPath="$PROJECT_DIR$/envy-4513/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/feed/index.html" afterPath="$PROJECT_DIR$/feed/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hp-color-laserjet-pro-m225dw-airprint-setup/index.html" afterPath="$PROJECT_DIR$/hp-color-laserjet-pro-m225dw-airprint-setup/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hp-color-laserjet-pro-m225dw-auto-connect/index.html" afterPath="$PROJECT_DIR$/hp-color-laserjet-pro-m225dw-auto-connect/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hp-color-laserjet-pro-m225dw-google-cloud-print/index.html" afterPath="$PROJECT_DIR$/hp-color-laserjet-pro-m225dw-google-cloud-print/index.html" />
@@ -65,7 +63,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hp-officejet-7610-driver-install/index.html" afterPath="$PROJECT_DIR$/hp-officejet-7610-driver-install/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hp-officejet-8040-driver-install/index.html" afterPath="$PROJECT_DIR$/hp-officejet-8040-driver-install/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hp-officejet-8040-printer-offline/index.html" afterPath="$PROJECT_DIR$/hp-officejet-8040-printer-offline/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hp-officejet-pro-8715-ink/index.html" afterPath="$PROJECT_DIR$/hp-officejet-pro-8715-ink/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hp-officejet-pro-8720-ink-cartridge/index.html" afterPath="$PROJECT_DIR$/hp-officejet-pro-8720-ink-cartridge/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laserjet-pro-m1136-airprint-setup/index.html" afterPath="$PROJECT_DIR$/laserjet-pro-m1136-airprint-setup/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laserjet-pro-m1136-auto-connect/index.html" afterPath="$PROJECT_DIR$/laserjet-pro-m1136-auto-connect/index.html" />
@@ -178,7 +175,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>http://123.hp-setup.com/wp-content/uploads/2016/09/123-hp-com-setup-banner-768x381.jpg</find>
       <find>http://123.hp-setup.com/wp-content/uploads/2016/09/123-hp-com-setup-banner-300x149.jpg</find>
       <find>title=&quot;123.hp-setup.com&quot;&gt;123.hp-setup.com&lt;/a&gt;</find>
       <find>&lt;strong&gt;123.hp-setup.com &lt;/strong&gt;</find>
@@ -208,6 +204,7 @@
       <find>http://123.hp-setup.com/wp-content/themes/colormag/js/fitvids/fitvids-setting.js?ver=20150311</find>
       <find>http://123.hp-setup.com/wp-includes/js/wp-embed.min.js?ver=4.9.1</find>
       <find>http://123.hp-setup.com</find>
+      <find>123.hp-setup.com</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -224,7 +221,6 @@
       <replace>http://hp-123.herokuapp.com/wp-content/uploads/2016/09/123-hp-com-setup-banner.jpg</replace>
       <replace>title=&quot;hp-123.herokuapp.com&quot;&gt;hp-123.herokuapp.com&lt;/a&gt;</replace>
       <replace>&lt;strong&gt;hp-123.herokuapp.com &lt;/strong&gt;</replace>
-      <replace>http://hp-123.herokuapp.com</replace>
       <replace>&quot;http://hp-123.herokuapp.com/123-hp-com/123-hp-setup-com/feed/&quot;</replace>
       <replace>http://hp-123.herokuapp.com/wp-content/uploads/2016/09/123-hp-setup-com.gif</replace>
       <replace>http://hp-123.herokuapp.com/wp-content/uploads/2016/11/123hp-com-google-setup.jpg</replace>
@@ -240,6 +236,7 @@
       <replace>http://hp-123.herokuapp.com/modifications/jquery.fitvids.js</replace>
       <replace>http://hp-123.herokuapp.com/modifications/fitvids-setting.js</replace>
       <replace>http://hp-123.herokuapp.com/modifications/wp-embed.min.js</replace>
+      <replace>http://hp-123.herokuapp.com</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\My Web Sites\123HP\wp-json\oembed\1.0</dir>
@@ -323,7 +320,7 @@
     </entry>
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -336,7 +333,31 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="123HP" type="cbb8eebc:String" user="123HP" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="123HP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="123HP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -368,17 +389,17 @@
       <updated>1514791921515</updated>
       <workItem from="1514791927755" duration="1697000" />
       <workItem from="1514794512088" duration="1788000" />
-      <workItem from="1514797227953" duration="10681000" />
+      <workItem from="1514797227953" duration="10869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14166000" />
+    <option name="totallyTimeSpent" value="14354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24968314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -550,14 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/123-hp-envy-4502-troubleshooting/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="509">
@@ -600,8 +613,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/123-hp-com/123-hp-setup-com/123.hp-setup.com/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="331" column="35" lean-forward="true" selection-start-line="331" selection-start-column="35" selection-end-line="331" selection-end-column="35" />
+        <state relative-caret-position="360">
+          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexcffb.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="594" column="99" lean-forward="true" selection-start-line="594" selection-start-column="99" selection-end-line="594" selection-end-column="99" />
           <folding />
         </state>
       </provider>
