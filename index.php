@@ -1,1 +1,1 @@
-<?php header( 'Location: /123.hp-setup.com/index.html' ) ;  ?>
+<?php header( 'Location: /index.html' ) ;  ?>
