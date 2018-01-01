@@ -2,7 +2,7 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>https://wordpress.org/</engineLink>
-    <homePageLink>http://123.hp-setup.com</homePageLink>
+    <homePageLink>http://hp-123.herokuapp.com</homePageLink>
     <apis>
       <api name="WordPress" blogID="1" preferred="true" apiLink="http://hp-123.herokuapp.com/xmlrpc.php" />
       <api name="Movable Type" blogID="1" preferred="false" apiLink="http://hp-123.herokuapp.com/xmlrpc.php" />
