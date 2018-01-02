@@ -933,8 +933,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="138" column="5" lean-forward="true" selection-start-line="138" selection-start-column="5" selection-end-line="138" selection-end-column="5" />
+            <state relative-caret-position="-864">
+              <caret line="1" column="50" lean-forward="true" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -942,6 +942,10 @@
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#27891#27897#1" expanded="true" />
+                <element signature="e#28812#28818#1" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -951,43 +955,38 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>header-left-section</find>
-      <find>&lt;div id=&quot;header-text-nav-container&quot; class=&quot;clearfix&quot;&gt;</find>
-      <find>&lt;div id=&quot;header-left-section&quot;&gt;</find>
-      <find>&lt;div id=&quot;header-text&quot; class=&quot;&quot;&gt;</find>
-      <find>&lt;h1 id=&quot;site-title&quot;  &gt;</find>
-      <find>&lt;h1 id=&quot;site-title&quot;       &gt;</find>
-      <find>&lt;h1 id=&quot;site-title&quot;&gt;</find>
-      <find>&lt;a href=&quot;index.html&quot; title=&quot;123.hp.com&quot;</find>
-      <find>\&lt;h3 id\=\&quot;site\-title\&quot;\&gt;\n\&lt;a href\=\&quot;\.\.\/index\.html\&quot; title\=\&quot;123\.hp\.com\&quot; rel\=\&quot;home\&quot;\&gt;123\.hp\.com\&lt;\/a\&gt;\n\&lt;\/h3\&gt;</find>
-      <find>&lt;h3 id=&quot;site-title&quot;&gt;</find>
-      <find>#232323</find>
+      <find>one_fourth bottom</find>
+      <find>compet</find>
+      <find>Setting up your HP Printer for the First Time</find>
+      <find>HP Printer Print Quality Help</find>
+      <find>stepclr</find>
+      <find>Printing through Desktop app</find>
+      <find>all rig</find>
+      <find>All rights are reserved.</find>
+      <find>TOP RELATED SEARCHES</find>
+      <find>100%</find>
+      <find>footer-socket-area</find>
+      <find>Copyright</find>
+      <find>&lt;div class=&quot;copyright&quot;&gt;</find>
+      <find>pick y</find>
+      <find>123 HP Printer Setup Windows 8 / 8.1</find>
+      <find>IS TEC</find>
+      <find>REL=&quot;H</find>
       <find>&lt;a href=&quot;index.html&quot; title=&quot;123.hp.com&quot; rel=&quot;home&quot; style=&quot;color: #289DCC; font-weight: bold;&quot;&gt;HP Printer Support&lt;/a&gt;</find>
-      <find>(&lt;a)()(title=&quot;123.hp.com&quot; rel=&quot;home&quot;&gt;123.hp.com&lt;/a&gt;)</find>
-      <find>&lt;a href=&quot;../index.html&quot; title=&quot;123.hp.com&quot; rel=&quot;home&quot;&gt;123.hp.com&lt;/a&gt;</find>
-      <find>title=&quot;123.hp.com&quot; rel=&quot;home&quot;&gt;123.hp.com&lt;/a&gt;</find>
-      <find>&lt;a href=&quot;http://hp-123.herokuapp.com/&quot; title=&quot;123.hp.com&quot; rel=&quot;home&quot;&gt;123.hp.com&lt;/a&gt;</find>
-      <find>h3</find>
-      <find>&lt;h3</find>
-      <find>&lt;h3 id=&quot;site-title&quot;</find>
-      <find>&lt;/h3&gt;&lt;!-- #site-description --&gt;</find>
-      <find>&quot; title=&quot;123.hp.com&quot; rel=&quot;home&quot;</find>
-      <find>\&lt;\/h3\&gt;\n\&lt;\!\-\- \#site\-description \-\-\&gt;</find>
-      <find>&lt;/h3&gt;</find>
-      <find>HP Printer Support\&lt;\/a\&gt;\n\&lt;\/h3\&gt;</find>
-      <find>href=&quot;http://hp-123.herokuapp.com/&quot;</find>
-      <find>\&lt;\/a\&gt;\n*\&lt;\/h1</find>
-      <find>&lt;h1 id=&quot;site-title&quot; style=&quot;width: 100%&quot;&gt;</find>
-      <find>\&lt;\/a\&gt;\n\&lt;\/h1\&gt;</find>
-      <find>HP Printer Support&lt;/a&gt;(/n*)&lt;/h3&gt;</find>
-      <find>HP Printer Support\&lt;\/a\&gt;\n\	\	\	\	\	\	\	\&lt;\/h3\&gt;</find>
+      <find>Printer Setup for Mac</find>
+      <find>site-title</find>
+      <find>DISCLAIMER</find>
+      <find>discla</find>
+      <find>index.html</find>
+      <find>menu-item-8618</find>
+      <find>terms a</find>
+      <find>about us</find>
+      <find>&gt;Terms and conditions&lt;/a&gt;&lt;/li&gt;</find>
+      <find>current</find>
+      <find>disclaimer</find>
+      <find>&lt;a href=&quot;disclaimer/index.html&quot;&gt;Disclaimer&lt;/a&gt;&lt;/li&gt;</find>
     </findStrings>
     <replaceStrings>
-      <replace>&gt;HP Officejet 250 Manual&lt;/a&gt;&lt;/li&gt;</replace>
-      <replace>&gt;HP Officejet 4650 Drivers&lt;/a&gt;&lt;/li&gt;</replace>
-      <replace>&gt;More Envy Printers&lt;/a&gt;&lt;/li&gt;</replace>
-      <replace>&gt;HP Laserjet Pro M452dn&lt;/a&gt;&lt;/li&gt;</replace>
-      <replace>&gt;More Laserjet Pro Printers&lt;/a&gt;&lt;/li&gt;</replace>
       <replace>/hp-sprocket-printer/index.html&quot;&gt;More Sprocket Printers&lt;/a&gt;&lt;/li&gt;</replace>
       <replace>hp-sprocket-printer/index.html&quot;&gt;More Sprocket Printers&lt;/a&gt;&lt;/li&gt;</replace>
       <replace>/hp-sprocket-printer/&quot;&gt;More Sprocket Printers&lt;/a&gt;&lt;/li&gt;</replace>
@@ -1013,6 +1012,11 @@
       <replace>&lt;/h1&gt;&lt;!-- #site-description --&gt;</replace>
       <replace />
       <replace>HP Printer Support&lt;/a&gt;							&lt;/h1&gt;</replace>
+      <replace>All rights reserved.</replace>
+      <replace>&lt;div style=&quot;width: 100%;text-align: center;color: #ffffff;&quot;&gt;</replace>
+      <replace>&lt;a href=&quot;http://hp-123.herokuapp.com/index.html&quot; title=&quot;123.hp.com&quot; rel=&quot;home&quot; style=&quot;color: #289DCC; font-weight: bold;&quot;&gt;HP Printer Support&lt;/a&gt;</replace>
+      <replace>&gt;Terms and conditions&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;menu-item-8620&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-8620&quot;&gt;&lt;a href=&quot;disclaimer/index.html&quot;&gt;Disclaimer&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;a href=&quot;http://hp-123.herokuapp.com/disclaimer/index.html&quot;&gt;Disclaimer&lt;/a&gt;&lt;/li&gt;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\My Web Sites\123HP\123-hp-envy-4502-troubleshooting</dir>
@@ -1041,7 +1045,6 @@
         <option value="$PROJECT_DIR$/feed/index.html" />
         <option value="$PROJECT_DIR$/hp-officejet-pro-8715-ink/index.html" />
         <option value="$PROJECT_DIR$/123-hp-com/123-hp-setup-com/index.html" />
-        <option value="$PROJECT_DIR$/about-us/index.html" />
         <option value="$PROJECT_DIR$/google-cloud-print/index.html" />
         <option value="$PROJECT_DIR$/terms-and-conditions/index.html" />
         <option value="$PROJECT_DIR$/refund-policy/index.html" />
@@ -1066,10 +1069,12 @@
         <option value="$PROJECT_DIR$/decorations/uploads/2017/01/123-hp-com-oj-6600-setup-driver.html" />
         <option value="$PROJECT_DIR$/123-hp-envy-4502-google-cloud-print/index.html" />
         <option value="$PROJECT_DIR$/decorations/cache/wpfc-minified/0f8b4444307fd146f34b817275baacd5/1514447567index.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/contact-us/index.html" />
-        <option value="$PROJECT_DIR$/123-hp-com-dj2510/index.html" />
         <option value="$PROJECT_DIR$/123-hp-com/123-hp-com/index.html" />
+        <option value="$PROJECT_DIR$/about-us/index.html" />
+        <option value="$PROJECT_DIR$/disclaimer/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/123-hp-com-dj2510/index.html" />
       </list>
     </option>
   </component>
@@ -1151,18 +1156,17 @@
             <path>
               <item name="123HP" type="b2602c69:ProjectViewProjectNode" />
               <item name="123HP" type="462c0819:PsiDirectoryNode" />
-              <item name="123-hp-com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="123HP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="123HP" type="462c0819:PsiDirectoryNode" />
-              <item name="123-hp-com" type="462c0819:PsiDirectoryNode" />
-              <item name="123-hp-com" type="462c0819:PsiDirectoryNode" />
+              <item name="about-us" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="123HP" type="b2602c69:ProjectViewProjectNode" />
               <item name="123HP" type="462c0819:PsiDirectoryNode" />
               <item name="contact-us" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="123HP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="123HP" type="462c0819:PsiDirectoryNode" />
+              <item name="disclaimer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1203,12 +1207,12 @@
       <workItem from="1514794512088" duration="1788000" />
       <workItem from="1514797227953" duration="13184000" />
       <workItem from="1514813294584" duration="4146000" />
-      <workItem from="1514869317388" duration="20604000" />
+      <workItem from="1514869317388" duration="28418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41419000" />
+    <option name="totallyTimeSpent" value="49233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -1243,39 +1247,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-json/oembed/1.0/embed.101f3ea.delayed" />
-    <entry file="file://$PROJECT_DIR$/terms-and-conditions/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="63" column="146" lean-forward="true" selection-start-line="63" selection-start-column="146" selection-end-line="63" selection-end-column="146" />
-          <folding>
-            <marker date="1514893865033" expanded="false" signature="54191:54200" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/refund-policy/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="77" column="120" lean-forward="false" selection-start-line="77" selection-start-column="120" selection-end-line="77" selection-end-column="120" />
-          <folding>
-            <marker date="1514893855488" expanded="false" signature="24263:24272" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/privacy-policy/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="75" column="39" lean-forward="false" selection-start-line="75" selection-start-column="39" selection-end-line="75" selection-end-column="39" />
-          <folding>
-            <marker date="1514893846233" expanded="false" signature="20457:20462" ph="&amp;" />
-            <marker date="1514893846233" expanded="false" signature="21836:21841" ph="&amp;" />
-            <marker date="1514893846233" expanded="false" signature="25479:25488" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/123-hp-dj 4510-eprint-setup/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -1531,14 +1502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laserjet-pro-m1136-wifi-protected-setup/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="296" column="0" lean-forward="true" selection-start-line="296" selection-start-column="0" selection-end-line="296" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/123-hp-envy-7640/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
@@ -1621,37 +1584,76 @@
         <state relative-caret-position="359">
           <caret line="141" column="48" lean-forward="true" selection-start-line="141" selection-start-column="48" selection-end-line="141" selection-end-column="48" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/123-hp-com-dj2510/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="141" column="112" lean-forward="false" selection-start-line="141" selection-start-column="112" selection-end-line="142" selection-end-column="5" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact-us/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="151" column="21" lean-forward="true" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="21" />
+        <state relative-caret-position="250">
+          <caret line="262" column="0" lean-forward="true" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="60" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/envy-5640/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="497" column="2" lean-forward="true" selection-start-line="497" selection-start-column="2" selection-end-line="497" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hp-officejet-pro-6968-non-eprint-setup/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="297" column="145" lean-forward="false" selection-start-line="297" selection-start-column="145" selection-end-line="297" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laserjet-pro-m1136-wifi-protected-setup/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="234" column="72" lean-forward="true" selection-start-line="234" selection-start-column="72" selection-end-line="234" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/disclaimer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="207" column="5" lean-forward="true" selection-start-line="207" selection-start-column="5" selection-end-line="207" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-us/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="143" column="28" lean-forward="false" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123-hp-com-dj2510/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="215" column="158" lean-forward="true" selection-start-line="215" selection-start-column="158" selection-end-line="215" selection-end-column="158" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="138" column="5" lean-forward="true" selection-start-line="138" selection-start-column="5" selection-end-line="138" selection-end-column="5" />
+        <state relative-caret-position="-864">
+          <caret line="1" column="50" lean-forward="true" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1659,6 +1661,10 @@
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#27891#27897#1" expanded="true" />
+            <element signature="e#28812#28818#1" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
