@@ -9,7 +9,7 @@ Saved: Oct 23 2017 | 12:11:11 */
 }
 h1{text-align:center!important;}
 @media (min-width: 999px){
-	#site-navigation .inner-wrap {position: relative;margin-left:150px!important; }
+	#site-navigation .inner-wrap {position: relative;}
 }
 .content-section{padding-left: 35px;
     margin-top: 20px;
@@ -206,7 +206,7 @@ line-height: 2 !important;
     text-align: center;
     padding: 0px 9px; 
 	line-height: 2;
-	margin-bottom: 4px!imporatant;
+	margin-bottom: 4px;
 	
 }
 
@@ -392,10 +392,11 @@ font-size: 32px;
     position: relative;
 }
 .clickcall{
-  margin: 7px;
-  position:fixed;
- right: 2px;
-  z-index:1000;
+margin: 7px;
+position:fixed;
+left: 2px;
+bottom:2px;
+z-index:1000;
 }
 .color{
   color:#289dcc;

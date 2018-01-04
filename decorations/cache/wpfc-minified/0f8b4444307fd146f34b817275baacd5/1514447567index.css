@@ -3,7 +3,7 @@ margin: 0 auto; max-width:100%;
 }
 h1{text-align:center!important;}
 @media (min-width: 999px){
-#site-navigation .inner-wrap {position: relative;margin-left:150px!important; }
+#site-navigation .inner-wrap {position: relative; }
 }
 .content-section{padding-left: 35px;
 margin-top: 20px;
@@ -349,7 +349,8 @@ position: relative;
 .clickcall{
 margin: 7px;
 position:fixed;
-right: 2px;
+left: 2px;
+bottom:2px;
 z-index:1000;
 }
 .color{
