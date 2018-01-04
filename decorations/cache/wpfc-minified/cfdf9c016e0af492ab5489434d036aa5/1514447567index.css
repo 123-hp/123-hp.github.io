@@ -180,7 +180,7 @@ margin-bottom: 24px;
 }
 ul,
 ol {
-    display: inline-flex;
+display: inline-block;
 list-style: none;
 }
 ol {
