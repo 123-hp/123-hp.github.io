@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a229add-1203-41e4-840f-ae7b7e3511ce" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/123-hp-com-dj2510/index.html" afterPath="$PROJECT_DIR$/123-hp-com-dj2510/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/123-hp-com/123-hp-com/index.html" afterPath="$PROJECT_DIR$/123-hp-com/123-hp-com/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/123-hp-com/index.html" afterPath="$PROJECT_DIR$/123-hp-com/index.html" />
@@ -930,11 +931,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/envy/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="437" column="28" lean-forward="true" selection-start-line="437" selection-start-column="28" selection-end-line="437" selection-end-column="28" />
+            <state relative-caret-position="238">
+              <caret line="383" column="0" lean-forward="false" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/123-hp-com-dj2510/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="688" column="0" lean-forward="true" selection-start-line="688" selection-start-column="0" selection-end-line="688" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -944,9 +955,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Feel free to contac</find>
-      <find>feel free to contact our Technical</find>
-      <find>feel free to contact our</find>
       <find>content=&quot;Feel free to contact our HP Technical support Team Call Us Toll-Free number +1-800-280-5391, if the issue persists still, or refer our website for step b ...&quot;</find>
       <find>content=&quot;Feel</find>
       <find>1888</find>
@@ -974,9 +982,11 @@
       <find>&lt;a href=&quot;#masthead&quot; id=&quot;scroll-up&quot; style=&quot;margin-bottom: 60px; margin-right: 10px;&quot;&gt;</find>
       <find>&lt;a href=&quot;#masthead&quot; id=&quot;scroll-up&quot; style=&quot;margin-bottom: 60px; margin-right: 7px;&quot;</find>
       <find>&lt;a href=&quot;#masthead&quot; id=&quot;scroll-up&quot; style=&quot;margin-bottom: 60px; margin-right: 7px;&quot;&gt;</find>
+      <find>masthe</find>
+      <find>&lt;a href=&quot;#masthead&quot; id=&quot;scroll-up&quot; style=&quot;margin-bottom: 50px; margin-right: 7px;&quot;&gt;</find>
+      <find>&lt;a href=&quot;#masthead&quot; id=&quot;scroll-up&quot; style=&quot;margin-bottom: 50px; margin-right: 5px;&quot;&gt;&lt;i class=&quot;fa fa-chevron-up&quot;&gt;&lt;/i&gt;&lt;/a&gt;</find>
     </findStrings>
     <replaceStrings>
-      <replace>&lt;a href=&quot;index.html&quot; title=&quot;123.hp.com&quot; rel=&quot;home&quot; style=&quot;color: #289DCC; font-weight: bold;&quot;&gt;HP Printer Support&lt;/a&gt;</replace>
       <replace>&lt;h1 id=&quot;site-title&quot;</replace>
       <replace>&lt;/h1&gt;&lt;!-- #site-description --&gt;</replace>
       <replace>HP Printer Support&lt;/a&gt;							&lt;/h1&gt;</replace>
@@ -996,7 +1006,6 @@
       <replace>All the above information of the names, images, information, services and products on this website are refer to guide the user. We do not assert any ownership, association or endorsement of the HP products listed in this website. Users are advised to review our policies for all the website usages.</replace>
       <replace>Refer our step by step guide on this website and if issue still persist feel free to contact our Technical Support Team through chat or Toll-Free number &lt;b&gt;+1-800-280-5391&lt;/b&gt;.</replace>
       <replace>We provide one stop solution for all your printer related issues. Refer our step by step guide on this website and if issue still persist feel free to contact our Technical Support team through chat or Toll-Free number &lt;b&gt;+1-800-280-5391&lt;/b&gt;.</replace>
-      <replace />
       <replace>content=&quot;Refer our step by step guide on this website and if issue still persist feel free to contact our Technical Support team through chat or Toll-Free number +1-800-280-5391&quot;</replace>
       <replace>+1-800-280-5391</replace>
       <replace>https://</replace>
@@ -1006,6 +1015,8 @@
       <replace>&lt;a href=&quot;#masthead&quot; id=&quot;scroll-up&quot; style=&quot;margin-bottom: 60px; margin-right: 10px;&quot;&gt;</replace>
       <replace>&lt;a href=&quot;#masthead&quot; id=&quot;scroll-up&quot; style=&quot;margin-bottom: 60px; margin-right: 7px;&quot;&gt;</replace>
       <replace>&lt;a href=&quot;#masthead&quot; id=&quot;scroll-up&quot; style=&quot;margin-bottom: 50px; margin-right: 7px;&quot;&gt;</replace>
+      <replace>&lt;a href=&quot;#masthead&quot; id=&quot;scroll-up&quot; style=&quot;margin-bottom: 50px; margin-right: 5px;&quot;&gt;</replace>
+      <replace />
     </replaceStrings>
     <dirStrings>
       <dir>C:\My Web Sites\123HP\123-hp-envy-4502-troubleshooting</dir>
@@ -1220,12 +1231,12 @@
       <workItem from="1514797227953" duration="13184000" />
       <workItem from="1514813294584" duration="4146000" />
       <workItem from="1514869317388" duration="30763000" />
-      <workItem from="1515044961941" duration="18716000" />
+      <workItem from="1515044961941" duration="19190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70294000" />
+    <option name="totallyTimeSpent" value="70768000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -1401,16 +1412,6 @@
           <caret line="234" column="112" lean-forward="true" selection-start-line="234" selection-start-column="112" selection-end-line="234" selection-end-column="112" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/envy/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="383" column="63" lean-forward="false" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1635,9 +1636,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="287" column="92" lean-forward="false" selection-start-line="287" selection-start-column="8" selection-end-line="287" selection-end-column="92" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1649,23 +1648,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/123-hp-com-dj2510/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="696" column="42" lean-forward="true" selection-start-line="696" selection-start-column="42" selection-end-line="696" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/officejet-pro-6978-wireless-scan-issue/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="303" column="83" lean-forward="false" selection-start-line="303" selection-start-column="0" selection-end-line="303" selection-end-column="83" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1673,6 +1660,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="437" column="28" lean-forward="true" selection-start-line="437" selection-start-column="28" selection-end-line="437" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/envy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="383" column="0" lean-forward="false" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123-hp-com-dj2510/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="688" column="0" lean-forward="true" selection-start-line="688" selection-start-column="0" selection-end-line="688" selection-end-column="0" />
           <folding />
         </state>
       </provider>
