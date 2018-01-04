@@ -2,13 +2,13 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>https://wordpress.org/</engineLink>
-    <homePageLink>https://hp-123.herokuapp.com</homePageLink>
+    <homePageLink>https://123-hp.github.io</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="https://hp-123.herokuapp.com/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://hp-123.herokuapp.com/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://hp-123.herokuapp.com/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="https://hp-123.herokuapp.com/xmlrpc.php" />
-      	<api name="WP-API" blogID="1" preferred="false" apiLink="https://hp-123.herokuapp.com/modifications/json.html" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="https://123-hp.github.io/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://123-hp.github.io/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://123-hp.github.io/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="https://123-hp.github.io/xmlrpc.php" />
+      	<api name="WP-API" blogID="1" preferred="false" apiLink="https://123-hp.github.io/modifications/json.html" />
 	    </apis>
   </service>
 </rsd>
